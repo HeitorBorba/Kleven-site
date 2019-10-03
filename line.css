@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    display: flex;
+    background-image: url(http://freefiremobile-a.akamaihd.net/ffwebsite/images/index/char_wukong.jpg);
+    background-size: cover;
+}
+nav{
+    margin-left: 380px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    border-radius: 100%;
+    border:black 5px solid;
+    width: 400px;
+    height: 400px;
+    
+    flex-direction: column
+}

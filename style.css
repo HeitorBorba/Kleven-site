@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    display: flex;
+    background-image: url(http://freefiremobile-a.akamaihd.net/ffwebsite/images/index/char_wukong.jpg)
+}
+header{
+   margin-left: 700px;
+    
+}
+header img{
+    width: 300px;
+    height: 300px;
+    border:solid red 3px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    border: none;
+    background-color: rgb(204, 127, 127);
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
+h1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    border: solid black 3px;
+    margin-left: 1pt;
+}
+
