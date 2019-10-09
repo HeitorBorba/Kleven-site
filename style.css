@@ -26,6 +26,11 @@ button{
     cursor: pointer;
     font-size: 20px;
     color: white;
+    border-bottom: solid 3px  rgb(116, 35, 35);
+}
+button:hover{
+    border-bottom: none;
+    background-color: rgb(116, 35, 35);
 }
 h1{
     display:flex;

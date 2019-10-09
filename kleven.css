@@ -1,0 +1,37 @@
+body{
+   margin:0;
+   display: flex;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3MNG5NZKAEiZP5xCyH4fXw98uxHKl6sKVG3HktatC2_vXfSc);
+   background-size: cover;
+}
+img{
+    width: 900px;
+    height: 900x;
+    display: flex;
+    justify-content: center;
+}
+button{
+    border: none;
+    background-color: rgb(204, 127, 127);
+    display: flex;
+    margin-left: 600px;
+    margin-top: 200pt;
+    width: 66px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    border-bottom: solid 3px  rgb(116, 35, 35);
+    color:rgb(165, 68, 68);
+}
+button:hover{
+    border-bottom: none;
+    background-color: rgb(116, 35, 35);
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(165, 68, 68);
+}
